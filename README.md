@@ -6,8 +6,8 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![Estatísticas de ErickSantos2000](https://github-readme-stats.vercel.app/api?username=ErickSantos2000&show_icons=true&theme=tokyonight)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSantos2000&layout=compact&theme=tokyonight)  
+![Estatísticas de ErickSantos2000](https://github-readme-stats.vercel.app/api?username=ErickSantos2000&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSantos2000&layout=compact&theme=radical)  
 
 ---
 
