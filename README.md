@@ -1,7 +1,13 @@
 # Olá, eu sou Erick Felipe  
 
-🎓 Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**. Interessado em desenvolvimento **back-end**, **banco de dados** e **programação de sistemas**.  
+🎓 Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**. Interessado em desenvolvimento **back-end**, **banco de dados** e **programação de sistemas**. 
 
+---
+## 🌟 Projetos em Destaque  
+
+- [**Caixa Eletrônico em Java**](https://github.com/ErickSantos2000/caixa_eletronico.git) 💳  
+  Simulação de um caixa eletrônico em **Java** com integração ao **PostgreSQL** utilizando **JDBC**.
+  
 ---
 
 ## 📊 Estatísticas do GitHub  
@@ -33,13 +39,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
----
-
-## 🌟 Projetos em Destaque  
-
-- [**Caixa Eletrônico em Java**](https://github.com/ErickSantos2000/caixa_eletronico.git) 💳  
-  Simulação de um caixa eletrônico em **Java** com integração ao **PostgreSQL** utilizando **JDBC**.  
 
 ---
 
