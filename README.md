@@ -1,7 +1,6 @@
-# 👋 Olá, eu sou Erick Felipe  
+# Olá, eu sou Erick Felipe  
 
-🎓 Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**.  
-💡 Interessado em desenvolvimento **back-end**, **banco de dados** e **programação de sistemas**.  
+🎓 Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**. Interessado em desenvolvimento **back-end**, **banco de dados** e **programação de sistemas**.  
 
 ---
 
@@ -23,7 +22,7 @@
 **Banco de Dados:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-**Frameworks / Bibliotecas:**  
+**Frameworks**  
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
