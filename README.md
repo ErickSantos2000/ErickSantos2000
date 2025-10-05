@@ -1,23 +1,20 @@
 # Olá, eu sou Erick Felipe  
 
-🎓 Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**. Interessado em desenvolvimento **back-end**, **banco de dados** e **programação de sistemas**. 
+Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**. Interessado em desenvolvimento **back-end**, **banco de dados** e **programação de sistemas**. 
 
----
-## 🌟 Projetos em Destaque  
+## Projetos em Destaque  
 
 - [**Caixa Eletrônico em Java**](https://github.com/ErickSantos2000/caixa_eletronico.git) 💳  
   Simulação de um caixa eletrônico em **Java** com integração ao **PostgreSQL** utilizando **JDBC**.
-  
----
 
-## 📊 Estatísticas do GitHub  
+
+## Estatísticas do GitHub  
 
 ![Estatísticas de ErickSantos2000](https://github-readme-stats.vercel.app/api?username=ErickSantos2000&show_icons=true&theme=radical)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSantos2000&layout=compact&theme=radical)  
 
----
 
-## 💻 Tecnologias que conheço  
+## Tecnologias que conheço  
 
 **Linguagens de Programação:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
@@ -40,12 +37,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
----
 
-## 📬 Onde me encontrar  
+## Contatos
 
 - GitHub: [@ErickSantos2000](https://github.com/ErickSantos2000)  
 
----
-
-⭐ Se curtir algum dos projetos, não esquece de deixar uma **estrela** no repositório!
