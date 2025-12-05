@@ -8,13 +8,13 @@ Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmen
   Implementação de um pipeline de **Big Data** utilizando **Apache Spark** para ingestão e processamento de dados meteorológicos, focando na **análise e transformação de grandes volumes** de dados.
 
 ## Estatísticas do GitHub  
-**MUDANÇA AQUI (TEMA: default)**
-![Estatísticas de ErickSantos2000](https://github-readme-stats.vercel.app/api?username=ErickSantos2000&show_icons=true&theme=default)  
-**MUDANÇA AQUI (TEMA: default)**
+**LINK PRINCIPAL ALTERADO (Simplificado)**
+![Estatísticas de ErickSantos2000](https://github-readme-stats.vercel.app/api?username=ErickSantos2000&show_icons=true)  
+**LINK DE LINGUAGENS MANTIDO**
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSantos2000&layout=compact&theme=default)  
 
 ## Tecnologias que conheço  
-**Linguagens de Programação** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+**Linguagens de Programação** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img-shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
  
 **Banco de Dados** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
