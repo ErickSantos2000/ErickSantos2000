@@ -1,6 +1,6 @@
 # Olá, eu sou Erick Felipe  
 
-Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**. Interessado em desenvolvimento **back-end**, **banco de dados** e **programação de sistemas**. 
+Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **5º período**. Interessado em desenvolvimento **back-end**, **banco de dados** e **programação de sistemas**. 
 
 ## Projetos em Destaque ✨
 - [**Caixa Eletrônico em Java**](https://github.com/ErickSantos2000/caixa_eletronico.git) 💳  
